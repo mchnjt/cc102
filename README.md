@@ -24,7 +24,7 @@ This repository documents the hands-on activities for **CC102 - Computer Program
 
 Confused by a Python term, function, or concept in the activities? Check the **ELI5 reference sheet**. It explains what various Python things do in plain, simple language.
 
-👉 [Check out the `eli5` branch](eli5/python.md)
+👉 [Check out the `eli5` README](eli5/python.md)
 
 ---
 
@@ -32,7 +32,7 @@ Confused by a Python term, function, or concept in the activities? Check the **E
 
 **TechStart** is a branch of this repo that stores guides for setting up a development environment on different devices, so you can get coding before the activity even begins.
 
-👉 [Check out the `techstart` branch](eli5/python.md)
+👉 [Check out the `techstart` README](eli5/python.md)
 
 ---
 
